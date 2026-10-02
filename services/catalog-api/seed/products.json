@@ -1,0 +1,12 @@
+[
+  { "id": "p-001", "name": "Mechanical Keyboard", "price": 349.90, "active": true },
+  { "id": "p-002", "name": "Wireless Mouse", "price": 129.50, "active": true },
+  { "id": "p-003", "name": "27-inch Monitor", "price": 1899.00, "active": true },
+  { "id": "p-004", "name": "USB-C Hub", "price": 199.99, "active": true },
+  { "id": "p-005", "name": "Noise-Cancelling Headphones", "price": 899.00, "active": true },
+  { "id": "p-006", "name": "Laptop Stand", "price": 159.90, "active": true },
+  { "id": "p-007", "name": "HD Webcam", "price": 279.00, "active": true },
+  { "id": "p-008", "name": "Desk Mat", "price": 59.90, "active": true },
+  { "id": "p-009", "name": "Vertical Mouse (discontinued)", "price": 189.00, "active": false },
+  { "id": "p-010", "name": "VGA Adapter (discontinued)", "price": 39.90, "active": false }
+]
